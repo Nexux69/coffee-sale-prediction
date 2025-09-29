@@ -102,7 +102,3 @@ This project utilizes transaction data to understand and forecast coffee sales. 
 ---
 
 
-
----
-
-*Contributions and feedback are welcome. If you find this project helpful, please star ⭐ the repo!*
